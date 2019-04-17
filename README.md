@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # $.geocomplete() - Version 1.7.0
 ## jQuery Geocoding and Places Autocomplete Plugin
 
@@ -211,3 +212,7 @@ More information can be found here: https://developers.google.com/maps/documenta
 ## About
 
 Developed by [Martin Kleppe](http://twitter.com/aemkei) at [Ubilabs](http://ubilabs.net).
+=======
+# geolocation
+gecoder
+>>>>>>> 3bdc48eef8d67479b393895635bcc7ebe38dd629
